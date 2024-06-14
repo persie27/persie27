@@ -1,6 +1,6 @@
 # Hi there, I'm Mohanababu 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanababuranganathan-27/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanababuranganathan-27/) ![Azure Certified](https://img.shields.io/badge/Azure%20Certified-Data%20Scientist%20Associate-%230078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## About Me
 
