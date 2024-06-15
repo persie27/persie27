@@ -1,6 +1,6 @@
 # Hi there, I'm Mohanababu 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanababuranganathan-27/) ![Azure Certified](https://img.shields.io/badge/Azure%20Certified-Data%20Scientist%20Associate-%230078D4?style=flat&logo=microsoft-azure&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanababu27/) ![Azure Certified](https://img.shields.io/badge/Azure%20Certified-Data%20Scientist%20Associate-%230078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## About Me
 
@@ -39,6 +39,6 @@ Resume Boost is an application that leverages the powerful Gemini model to analy
 ## Get in Touch
 
 - 📫 Email: [mohanababuranganathan@gmail.com](mailto:mohanababuranganathan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohanababuranganathan-27](https://www.linkedin.com/in/mohanababuranganathan-27/)
+- 💼 LinkedIn: [linkedin.com/in/mohanababu27/](https://www.linkedin.com/in/mohanababu27/)
 
 Thanks for visiting my profile! 😊
