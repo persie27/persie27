@@ -39,6 +39,6 @@ Resume Boost is an application that leverages the powerful Gemini model to analy
 ## Get in Touch
 
 - 📫 Email: [mohanababuranganathan@gmail.com](mailto:mohanababuranganathan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohanababuranganathan-27]https://www.linkedin.com/in/mohanababuranganathan-27/)
+- 💼 LinkedIn: [linkedin.com/in/mohanababuranganathan-27](https://www.linkedin.com/in/mohanababuranganathan-27/)
 
 Thanks for visiting my profile! 😊
